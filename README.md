@@ -48,10 +48,12 @@
 
 ###
 
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBidm53dWYxbHRxNHVyMndlY3R4Z2thbm9kZjdwZmh3MWhpMmJwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+<img align="right" height="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBidm53dWYxbHRxNHVyMndlY3R4Z2thbm9kZjdwZmh3MWhpMmJwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/ObadaMallah/ObadaMallah/output/snake.svg" alt="Snake animation" />
 
+###
